@@ -9,6 +9,10 @@ Grupo:
   
 A ideia do projeto foi representar um eclipse solar, tendo o sol (objeto fonte de luz) e a lua translacionando a Terra. Serão utilizadas duas câmeras de visualização, estando uma no espaço para que seja possível visualizar o movimento da lua em torno da Terra. A câmera terrestre observará como uma pessoa, sendo possível visualizar o anel de fogo.
 
+Projeto em execução:
+
+![Gif da aplicação em execução](assets/eclipse.gif)
+
 ## Uso
 Para utilizar, certifique-se de ter OpenGL instalado. 
 
@@ -38,5 +42,3 @@ Os comandos disponíveis na aplicação são:
 - Botão esquerdo do mouse: Move a lua com um movimento contrário à sua rotação (cada clique move um pouco, melhor vizualizado com a lua parada);
 - Botão direito do mouse: Move a lua com um movimento a favor da sua rotação (cada clique move um pouco, melhor vizualizado com a lua parada);
 - Scroll do mouse: No Linux faz a mesma coisa que o W/w e o S/s (no windows não funcionou).
-
-![Gif da aplicação em execução](assets/eclipse.gif)
