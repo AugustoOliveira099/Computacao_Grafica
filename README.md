@@ -12,7 +12,7 @@ A ideia do projeto foi representar um eclipse solar, tendo o sol (objeto fonte d
 ## Uso
 Para utilizar, certifique-se de ter OpenGL instalado. 
 
-No Linux (creio que em qualquer sistema operaciona do tipo unix funcione), basta executar o comando a seguir:
+No Linux (creio que em qualquer sistema operaciona do tipo unix funcione), basta executar o comando a seguir, no terminal, dentro do diretório do projeto:
 ```
 gcc -o eclipse eclipse.c -lm -lGL -lGLU -lglut
 ```
