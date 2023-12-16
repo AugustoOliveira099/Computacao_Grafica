@@ -38,3 +38,5 @@ Os comandos disponíveis na aplicação são:
 - Botão esquerdo do mouse: Move a lua com um movimento contrário à sua rotação (cada clique move um pouco, melhor vizualizado com a lua parada);
 - Botão direito do mouse: Move a lua com um movimento a favor da sua rotação (cada clique move um pouco, melhor vizualizado com a lua parada);
 - Scroll do mouse: No Linux faz a mesma coisa que o W/w e o S/s (no windows não funcionou).
+
+![Gif da aplicação em execução](assets/eclipse.gif)
